@@ -1,0 +1,22 @@
+{
+  "name": "jest",
+  "version": "1.0.0",
+  "description": "Jest setup and usage",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/obre-bjorn/Jest.git"
+  },
+  "author": "Bjorn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/obre-bjorn/Jest/issues"
+  },
+  "homepage": "https://github.com/obre-bjorn/Jest#readme",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
